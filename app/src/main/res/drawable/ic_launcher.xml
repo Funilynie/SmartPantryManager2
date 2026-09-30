@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- green rounded background -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M8,2h32a6,6 0 0 1 6,6v32a6,6 0 0 1 -6,6H8a6,6 0 0 1 -6,-6V8a6,6 0 0 1 6,-6z" />
+    <!-- pantry basket -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,22h24l-3,16H15z" />
+    <!-- basket handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,22a6,6 0 0 1 12,0h-3a3,3 0 0 0 -6,0z" />
+    <!-- tomato peeking out -->
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M24,12m-4,0a4,4 0 1 1 8,0a4,4 0 1 1 -8,0" />
+</vector>
